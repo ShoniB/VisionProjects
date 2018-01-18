@@ -1,6 +1,6 @@
 /* Title: Project1.cc 
    Shondell Baijoo
-   Purpose: Reads a grey scale image and outputs it as a binary image
+   Purpose: Uses moment of least inertia and area to recognize objects
   Date: 9/20/2017
 */ 
 
