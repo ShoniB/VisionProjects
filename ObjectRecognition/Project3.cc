@@ -1,6 +1,7 @@
 /* Title: Project3.cc 
    Shondell Baijoo
-   Purpose: Reads a labeled image (from Project2) and outputs a database and orientation image. Database is a text file that contains e and area.
+   Purpose: Reads a labeled image (from Project2) and outputs a database and orientation image. 
+      Database is a text file that contains e, area, and orientation.
   Date: 9/20/2017
 */ 
 
