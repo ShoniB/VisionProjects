@@ -1,6 +1,6 @@
-/* Title: Project1.cc 
+/* Title: Project2.cc 
    Shondell Baijoo
-   Purpose: Reads a grey scale image and outputs it as a binary image
+   Purpose: Takes a binary image, labels them, and calculates area
   Date: 9/20/2017
 */ 
 
