@@ -1,6 +1,6 @@
-/* Title: Project1.cc 
+/* Title: Project3.cc 
    Shondell Baijoo
-   Purpose: Reads a grey scale image and outputs it as a binary image
+   Purpose: Reads a labeled image (from Project2) and outputs a database and orientation image. Database is a text file that contains e and area.
   Date: 9/20/2017
 */ 
 
