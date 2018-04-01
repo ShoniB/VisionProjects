@@ -1,2 +1,2 @@
 # VisionProjects
-Implementation of Computer Vision Algorithms
+Implementations of Computer Vision Algorithms
